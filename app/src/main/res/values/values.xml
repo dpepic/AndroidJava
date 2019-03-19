@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="labela">Tekst za labelu</string>
+    <string name="labela2">Drugi tekst za labelu</string>
+</resources>
